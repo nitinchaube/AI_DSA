@@ -10,7 +10,12 @@ Welcome to my hands-on repository for **core AI and ML concepts**, where I share
 - Gradient Descent
 - Momentum
 - Nesterov Accelerated Gradient (NAG)
-- RMSProp, Adam, and more (Coming Soon)
+- RMSProp
+- AdaGrad
+- Adam, and more (Coming Soon)
+
+### Loss Function
+- MSE, MAE, Huber
 
 ### LoRA (Low-Rank Adaptation)
 - Intuitive explanation of LoRA
