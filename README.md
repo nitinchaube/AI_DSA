@@ -12,10 +12,11 @@ Welcome to my hands-on repository for **core AI and ML concepts**, where I share
 - Nesterov Accelerated Gradient (NAG)
 - RMSProp
 - AdaGrad
-- Adam, and more (Coming Soon)
+- Adam
+
 
 ### Loss Function
-- MSE, MAE, Huber
+- MSE, MAE, Huber, Cross Entropy, Hinge Loss
 
 ### LoRA (Low-Rank Adaptation)
 - Intuitive explanation of LoRA
