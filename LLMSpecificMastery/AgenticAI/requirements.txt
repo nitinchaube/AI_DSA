@@ -1,0 +1,13 @@
+streamlit
+crewai-tools
+crewai
+google-search-results
+jupyter
+git+https://github.com/openai/swarm.git
+langchain-community
+duckduckgo-search
+onnxruntime
+langgraph
+datasets
+matplotlib
+openai-agents
