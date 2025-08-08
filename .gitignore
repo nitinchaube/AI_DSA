@@ -3,3 +3,4 @@ Diffusion/data/
 **/.venv/
 **/env/
 **/*Venv/
+**/models/*
