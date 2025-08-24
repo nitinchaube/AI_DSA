@@ -4,3 +4,4 @@ Diffusion/data/
 **/env/
 **/*Venv/
 **/models/*
+.env
